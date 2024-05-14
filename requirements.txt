@@ -1,0 +1,4 @@
+bibtexparser==1.4.1
+PyQt5==5.15.10
+PyQt5_sip==12.13.0
+Requests==2.31.0
